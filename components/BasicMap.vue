@@ -1,6 +1,5 @@
 <template>
   <LMap
-    style="height: 350px"
     :zoom="6"
     :center="[47.21322, -1.559482]"
     :use-global-leaflet="false"
